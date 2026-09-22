@@ -2,11 +2,8 @@
 
 ⚡Electrical Engineer
 
-📚 My topics of study are Renewable Energies, Energy Storage, Electric Mobility and Artificial Intelligence.
+📚 My topics of study are Power Systems, Renewable Energies, Network Reconfiguration, Energy Storage, Electric Mobility and Artificial Intelligence.
 
-
-## My website
-[![Site](https://img.shields.io/website-up-down-green-red/http/gabrielhdanielsson.github.io/site.svg)](https://gabrielhdanielsson.github.io/site)
 
 ## Socials
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gabrieldanielsson) 
